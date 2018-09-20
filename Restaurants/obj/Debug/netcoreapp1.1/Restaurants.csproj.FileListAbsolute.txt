@@ -1,0 +1,9 @@
+/Users/ConnorMcCarthy/Desktop/Restaurants.Solution/Restaurants/bin/Debug/netcoreapp1.1/Restaurants.deps.json
+/Users/ConnorMcCarthy/Desktop/Restaurants.Solution/Restaurants/bin/Debug/netcoreapp1.1/Restaurants.runtimeconfig.json
+/Users/ConnorMcCarthy/Desktop/Restaurants.Solution/Restaurants/bin/Debug/netcoreapp1.1/Restaurants.runtimeconfig.dev.json
+/Users/ConnorMcCarthy/Desktop/Restaurants.Solution/Restaurants/bin/Debug/netcoreapp1.1/Restaurants.dll
+/Users/ConnorMcCarthy/Desktop/Restaurants.Solution/Restaurants/bin/Debug/netcoreapp1.1/Restaurants.pdb
+/Users/ConnorMcCarthy/Desktop/Restaurants.Solution/Restaurants/obj/Debug/netcoreapp1.1/Restaurants.csproj.CoreCompileInputs.cache
+/Users/ConnorMcCarthy/Desktop/Restaurants.Solution/Restaurants/obj/Debug/netcoreapp1.1/Restaurants.AssemblyInfo.cs
+/Users/ConnorMcCarthy/Desktop/Restaurants.Solution/Restaurants/obj/Debug/netcoreapp1.1/Restaurants.dll
+/Users/ConnorMcCarthy/Desktop/Restaurants.Solution/Restaurants/obj/Debug/netcoreapp1.1/Restaurants.pdb
